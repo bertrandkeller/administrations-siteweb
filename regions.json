@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Auvergne-Rhône-Alpes",
+    "url": "https://www.auvergnerhonealpes.fr/"
+  },
+  {
+    "name": "Bourgogne-Franche-Comté",
+    "url": "https://www.bourgognefranchecomte.fr/"
+  },
+  {
+    "name": "Bretagne",
+    "url": "https://www.bretagne.bzh/",
+    "declaration": true
+  },
+  {
+    "name": "Centre-Val de Loire",
+    "url": "http://www.regioncentre-valdeloire.fr/",
+    "declaration": true
+  },
+  {
+    "name": "Collectivité territoriale de Corse",
+    "url": "https://www.isula.corsica/"
+  },
+  {
+    "name": "Grand Est",
+    "url": "https://www.grandest.fr/"
+  },
+  {
+    "name": "Hauts-de-France",
+    "url": "https://www.hautsdefrance.fr/",
+    "declaration": true
+  },
+  {
+    "name": "Île-de-France",
+    "url": "https://www.iledefrance.fr/",
+    "declaration": true
+  },
+  {
+    "name": "Normandie",
+    "url": "https://www.normandie.fr/"
+  },
+  {
+    "name": "Nouvelle-Aquitaine",
+    "url": "https://www.nouvelle-aquitaine.fr/"
+  },
+  {
+    "name": "Occitanie",
+    "url": "https://www.laregion.fr/"
+  },
+  {
+    "name": "Pays de la Loire",
+    "url": "https://www.paysdelaloire.fr/",
+    "declaration": true
+  },
+  {
+    "name": "Provence-Alpes-Côte d'Azur",
+    "url": "https://www.maregionsud.fr/"
+  }
+]
