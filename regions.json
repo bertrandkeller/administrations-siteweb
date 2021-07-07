@@ -1,59 +1,482 @@
 [
   {
-    "name": "Auvergne-Rhône-Alpes",
-    "url": "https://www.auvergnerhonealpes.fr/"
+    "id": "06",
+    "name": "Alpes-Maritimes",
+    "url": "https://www.departement06.fr/"
   },
   {
-    "name": "Bourgogne-Franche-Comté",
-    "url": "https://www.bourgognefranchecomte.fr/"
+    "id": "09",
+    "name": "Ariège",
+    "url": "https://ariege.fr"
   },
   {
-    "name": "Bretagne",
-    "url": "https://www.bretagne.bzh/",
-    "declaration": true
+    "id": "10",
+    "name": "Aube",
+    "url": "https://www.aube.fr/"
   },
   {
-    "name": "Centre-Val de Loire",
-    "url": "http://www.regioncentre-valdeloire.fr/",
-    "declaration": true
+    "id": "28",
+    "name": "Eure-et-Loir",
+    "url": "https://www.eurelien.fr"
   },
   {
-    "name": "Collectivité territoriale de Corse",
+    "id": "26",
+    "name": "Drôme",
+    "url": "https://www.ladrome.fr/"
+  },
+  {
+    "id": "29",
+    "name": "Finistère",
+    "url": "https://www.finistere.fr/"
+  },
+  {
+    "id": "43",
+    "name": "Haute-Loire",
+    "url": "https://hauteloire.fr"
+  },
+  {
+    "id": "57",
+    "name": "Moselle",
+    "url": "https://moselle.fr"
+  },
+  {
+    "id": "62",
+    "name": "Pas-de-Calais",
+    "url": "https://pasdecalais.fr"
+  },
+  {
+    "id": "52",
+    "name": "Haute-Marne",
+    "url": "https://haute-marne.fr"
+  },
+  {
+    "id": "74",
+    "name": "Haute-Savoie",
+    "url": "https://hautesavoie.fr"
+  },
+  {
+    "id": "04",
+    "name": "Alpes-de-Haute-Provence",
+    "url": "http://www.mondepartement04.fr/"
+  },
+  {
+    "id": "2B",
+    "name": "Haute-Corse",
     "url": "https://www.isula.corsica/"
   },
   {
-    "name": "Grand Est",
-    "url": "https://www.grandest.fr/"
+    "id": "34",
+    "name": "Hérault",
+    "url": "https://herault.fr"
   },
   {
-    "name": "Hauts-de-France",
-    "url": "https://www.hautsdefrance.fr/",
-    "declaration": true
+    "id": "63",
+    "name": "Puy-de-Dôme",
+    "url": "https://www.puy-de-dome.fr"
   },
   {
-    "name": "Île-de-France",
-    "url": "https://www.iledefrance.fr/",
-    "declaration": true
+    "id": "54",
+    "name": "Meurthe-et-Moselle",
+    "url": "http://www.meurthe-et-moselle.fr/"
   },
   {
-    "name": "Normandie",
-    "url": "https://www.normandie.fr/"
+    "id": "22",
+    "name": "Côtes d'Armor",
+    "url": "https://cotesdarmor.fr"
   },
   {
-    "name": "Nouvelle-Aquitaine",
-    "url": "https://www.nouvelle-aquitaine.fr/"
+    "id": "46",
+    "name": "Lot",
+    "url": "https://lot.fr"
   },
   {
-    "name": "Occitanie",
-    "url": "https://www.laregion.fr/"
+    "id": "90",
+    "name": "Territoire de Belfort",
+    "url": "https://territoiredebelfort.fr"
   },
   {
-    "name": "Pays de la Loire",
-    "url": "https://www.paysdelaloire.fr/",
-    "declaration": true
+    "id": "48",
+    "name": "Lozère",
+    "url": "https://lozere.fr"
   },
   {
-    "name": "Provence-Alpes-Côte d'Azur",
-    "url": "https://www.maregionsud.fr/"
+    "id": "59",
+    "name": "Nord",
+    "url": "https://lenord.fr"
+  },
+  {
+    "id": "12",
+    "name": "Aveyron",
+    "url": "https://aveyron.fr"
+  },
+  {
+    "id": "73",
+    "name": "Savoie",
+    "url": "https://savoie.fr"
+  },
+  {
+    "id": "17",
+    "name": "Charente-Maritime",
+    "url": "https://charente-maritime.fr"
+  },
+  {
+    "id": "86",
+    "name": "Vienne",
+    "url": "https://www.lavienne86.fr"
+  },
+  {
+    "id": "64",
+    "name": "Pyrénées-Atlantiques",
+    "url": "http://www.le64.fr"
+  },
+  {
+    "id": "05",
+    "name": "Hautes-Alpes",
+    "url": "https://hautes-alpes.fr"
+  },
+  {
+    "id": "89",
+    "name": "Yonne",
+    "url": "https://yonne.fr"
+  },
+  {
+    "id": "03",
+    "name": "Allier",
+    "url": "https://allier.fr"
+  },
+  {
+    "id": "66",
+    "name": "Pyrénées-Orientales",
+    "url": "https://www.ledepartement66.fr/"
+  },
+  {
+    "id": "70",
+    "name": "Haute-Saône",
+    "url": "https://www.haute-saone.fr"
+  },
+  {
+    "id": "18",
+    "name": "Cher",
+    "url": "https://www.departement18.fr"
+  },
+  {
+    "id": "07",
+    "name": "Ardèche",
+    "url": "https://ardeche.fr"
+  },
+  {
+    "id": "58",
+    "name": "Nièvre",
+    "url": "https://nievre.fr"
+  },
+  {
+    "id": "71",
+    "name": "Saône-et-Loire",
+    "url": "https://saoneetloire.fr"
+  },
+  {
+    "id": "94",
+    "name": "Val-de-Marne",
+    "url": "https://www.valdemarne.fr"
+  },
+  {
+    "id": "93",
+    "name": "Seine-St-Denis",
+    "url": "https://seinesaintdenis.fr/"
+  },
+  {
+    "id": "95",
+    "name": "Val-D'Oise",
+    "url": "https://www.valdoise.fr"
+  },
+  {
+    "id": "2A",
+    "name": "Corse-du-Sud",
+    "url": "http://www.corsedusud.fr/"
+  },
+  {
+    "id": "35",
+    "name": "Ille-et-Vilaine",
+    "url": "https://ille-et-vilaine.fr"
+  },
+  {
+    "id": "37",
+    "name": "Indre-et-Loire",
+    "url": "https://www.touraine.fr"
+  },
+  {
+    "id": "40",
+    "name": "Landes",
+    "url": "https://landes.fr"
+  },
+  {
+    "id": "51",
+    "name": "Marne",
+    "url": "http://marne.fr"
+  },
+  {
+    "id": "27",
+    "name": "Eure",
+    "url": "https://eureennormandie.fr/"
+  },
+  {
+    "id": "38",
+    "name": "Isère",
+    "url": "https://isere.fr"
+  },
+  {
+    "id": "84",
+    "name": "Vaucluse",
+    "url": "https://www.vaucluse.fr/"
+  },
+  {
+    "id": "23",
+    "name": "Creuse",
+    "url": "https://www.creuse.fr/"
+  },
+  {
+    "id": "39",
+    "name": "Jura",
+    "url": "https://www.jura.fr"
+  },
+  {
+    "id": "53",
+    "name": "Mayenne",
+    "url": "https://mayenne.fr"
+  },
+  {
+    "id": "61",
+    "name": "Orne",
+    "url": "https://orne.fr"
+  },
+  {
+    "id": "13",
+    "name": "Bouches-du-Rhône",
+    "url": "https://bouches-du-rhone.fr"
+  },
+  {
+    "id": "49",
+    "name": "Maine-et-Loire",
+    "url": "https://maine-et-loire.fr"
+  },
+  {
+    "id": "16",
+    "name": "Charente",
+    "url": "https://lacharente.fr"
+  },
+  {
+    "id": "65",
+    "name": "Hautes-Pyrénées",
+    "url": "https://www.hautespyrenees.fr"
+  },
+  {
+    "id": "36",
+    "name": "Indre",
+    "url": "https://indre.fr"
+  },
+  {
+    "id": "42",
+    "name": "Loire",
+    "url": "https://loire.fr"
+  },
+  {
+    "id": "21",
+    "name": "Côte-d'Or",
+    "url": "https://cotedor.fr"
+  },
+  {
+    "id": "88",
+    "name": "Vosges",
+    "url": "https://vosges.fr/"
+  },
+  {
+    "id": "72",
+    "name": "Sarthe",
+    "url": "https://www.sarthe.fr"
+  },
+  {
+    "id": "83",
+    "name": "Var",
+    "url": "https://var.fr"
+  },
+  {
+    "id": "25",
+    "name": "Doubs",
+    "url": "https://doubs.fr"
+  },
+  {
+    "id": "31",
+    "name": "Haute-Garonne",
+    "url": "https://haute-garonne.fr"
+  },
+  {
+    "id": "02",
+    "name": "Aisne",
+    "url": "https://aisne.fr"
+  },
+  {
+    "id": "08",
+    "name": "Ardennes",
+    "url": "https://cd08.fr"
+  },
+  {
+    "id": "67",
+    "name": "Bas-Rhin",
+    "url": "https://bas-rhin.fr"
+  },
+  {
+    "id": "82",
+    "name": "Tarn-et-Garonne",
+    "url": "https://www.ledepartement.fr/"
+  },
+  {
+    "id": "33",
+    "name": "Gironde",
+    "url": "https://www.gironde.fr"
+  },
+  {
+    "id": "68",
+    "name": "Haut-Rhin",
+    "url": "https://www.haut-rhin.fr/"
+  },
+  {
+    "id": "60",
+    "name": "Oise",
+    "url": "https://oise.fr"
+  },
+  {
+    "id": "56",
+    "name": "Morbihan",
+    "url": "https://www.morbihan.fr"
+  },
+  {
+    "id": "45",
+    "name": "Loiret",
+    "url": "https://www.loiret.fr/"
+  },
+  {
+    "id": "75",
+    "name": "Paris",
+    "url": "https://paris.fr"
+  },
+  {
+    "id": "41",
+    "name": "Loir-et-Cher",
+    "url": "https://loir-et-cher.fr"
+  },
+  {
+    "id": "01",
+    "name": "Ain",
+    "url": "https://www.ain.fr/"
+  },
+  {
+    "id": "87",
+    "name": "Haute-Vienne",
+    "url": "https://www.haute-vienne.fr/"
+  },
+  {
+    "id": "55",
+    "name": "Meuse",
+    "url": "https://www.meuse.fr/"
+  },
+  {
+    "id": "50",
+    "name": "Manche",
+    "url": "https://manche.fr"
+  },
+  {
+    "id": "79",
+    "name": "Deux-Sèvres",
+    "url": "https://deux-sevres.fr"
+  },
+  {
+    "id": "80",
+    "name": "Somme",
+    "url": "https://somme.fr"
+  },
+  {
+    "id": "81",
+    "name": "Tarn",
+    "url": "https://www.tarn.fr"
+  },
+  {
+    "id": "78",
+    "name": "Yvelines",
+    "url": "https://www.yvelines.fr/"
+  },
+  {
+    "id": "92",
+    "name": "Hauts-de-Seine",
+    "url": "https://hauts-de-seine.fr"
+  },
+  {
+    "id": "15",
+    "name": "Cantal",
+    "url": "https://cantal.fr"
+  },
+  {
+    "id": "14",
+    "name": "Calvados",
+    "url": "https://calvados.fr"
+  },
+  {
+    "id": "19",
+    "name": "Corrèze",
+    "url": "https://correze.fr"
+  },
+  {
+    "id": "85",
+    "name": "Vendée",
+    "url": "https://vendee.fr"
+  },
+  {
+    "id": "24",
+    "name": "Dordogne",
+    "url": "https://dordogne.fr"
+  },
+  {
+    "id": "30",
+    "name": "Gard",
+    "url": "https://gard.fr"
+  },
+  {
+    "id": "11",
+    "name": "Aude",
+    "url": "https://aude.fr"
+  },
+  {
+    "id": "32",
+    "name": "Gers",
+    "url": "https://gers.fr"
+  },
+  {
+    "id": "44",
+    "name": "Loire-Atlantique",
+    "url": "https://loire-atlantique.fr"
+  },
+  {
+    "id": "91",
+    "name": "Essonne",
+    "url": "https://essonne.fr"
+  },
+  {
+    "id": "77",
+    "name": "Seine-et-Marne",
+    "url": "https://seine-et-marne.fr"
+  },
+  {
+    "id": "69",
+    "name": "Rhône",
+    "url": "https://www.rhone.fr"
+  },
+  {
+    "id": "47",
+    "name": "Lot-et-Garonne",
+    "url": "https://www.lotetgaronne.fr"
+  },
+  {
+    "id": "76",
+    "name": "Seine-Maritime",
+    "url": "https://www.seinemaritime.fr"
   }
 ]
