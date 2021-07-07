@@ -32,7 +32,7 @@
   {
     "id": "07",
     "name": "Ardèche",
-    "url": "https://ardèche.fr"
+    "url": "https://ardeche.fr"
   },
   {
     "id": "08",
@@ -42,12 +42,12 @@
   {
     "id": "09",
     "name": "Ariège",
-    "url": "https://ariège.fr"
+    "url": "https://ariege.fr"
   },
   {
     "id": "10",
     "name": "Aube",
-    "url": "https://aube.fr"
+    "url": "https://www.aube.fr/"
   },
   {
     "id": "11",
@@ -62,7 +62,7 @@
   {
     "id": "13",
     "name": "Bouches-du-Rhône",
-    "url": "https://bouches-du-rhône.fr"
+    "url": "https://bouches-du-rhone.fr"
   },
   {
     "id": "14",
@@ -92,27 +92,27 @@
   {
     "id": "19",
     "name": "Corrèze",
-    "url": "https://corrèze.fr"
+    "url": "https://correze.fr"
   },
   {
     "id": "2A",
     "name": "Corse-du-Sud",
-    "url": "https://corse-du-sud.fr"
+    "url": ""
   },
   {
     "id": "2B",
     "name": "Haute-Corse",
-    "url": "https://haute-corse.fr"
+    "url": "https://www.isula.corsica/"
   },
   {
     "id": "21",
     "name": "Côte-d'Or",
-    "url": "https://côte-d'or.fr"
+    "url": "https://cotedor.fr"
   },
   {
     "id": "22",
     "name": "Côtes d'Armor",
-    "url": "https://côtes d'armor.fr"
+    "url": "https://cotesdarmor.fr"
   },
   {
     "id": "23",
@@ -132,7 +132,7 @@
   {
     "id": "26",
     "name": "Drôme",
-    "url": "https://drôme.fr"
+    "url": "https://drome.fr"
   },
   {
     "id": "27",
@@ -147,7 +147,7 @@
   {
     "id": "29",
     "name": "Finistère",
-    "url": "https://finistère.fr"
+    "url": "https://finistere.fr"
   },
   {
     "id": "30",
@@ -172,7 +172,7 @@
   {
     "id": "34",
     "name": "Hérault",
-    "url": "https://hérault.fr"
+    "url": "https://herault.fr"
   },
   {
     "id": "35",
@@ -192,7 +192,7 @@
   {
     "id": "38",
     "name": "Isère",
-    "url": "https://isère.fr"
+    "url": "https://isere.fr"
   },
   {
     "id": "39",
@@ -242,7 +242,7 @@
   {
     "id": "48",
     "name": "Lozère",
-    "url": "https://lozère.fr"
+    "url": "https://lozere.fr"
   },
   {
     "id": "49",
@@ -322,17 +322,17 @@
   {
     "id": "64",
     "name": "Pyrénées-Atlantiques",
-    "url": "https://pyrénées-atlantiques.fr"
+    "url": "https://pyrenees-atlantiques.fr"
   },
   {
     "id": "65",
     "name": "Hautes-Pyrénées",
-    "url": "https://hautes-pyrénées.fr"
+    "url": "https://hautes-pyrenees.fr"
   },
   {
     "id": "66",
     "name": "Pyrénées-Orientales",
-    "url": "https://pyrénées-orientales.fr"
+    "url": "https://pyrenees-orientales.fr"
   },
   {
     "id": "67",
@@ -347,17 +347,17 @@
   {
     "id": "69",
     "name": "Rhône",
-    "url": "https://rhône.fr"
+    "url": "https://rhone.fr"
   },
   {
     "id": "70",
     "name": "Haute-Saône",
-    "url": "https://haute-saône.fr"
+    "url": "https://haute-saone.fr"
   },
   {
     "id": "71",
     "name": "Saône-et-Loire",
-    "url": "https://saône-et-loire.fr"
+    "url": "https://saone-et-loire.fr"
   },
   {
     "id": "72",
@@ -397,7 +397,7 @@
   {
     "id": "79",
     "name": "Deux-Sèvres",
-    "url": "https://deux-sèvres.fr"
+    "url": "https://deux-sevres.fr"
   },
   {
     "id": "80",
@@ -427,7 +427,7 @@
   {
     "id": "85",
     "name": "Vendée",
-    "url": "https://vendée.fr"
+    "url": "https://vendee.fr"
   },
   {
     "id": "86",
@@ -452,7 +452,7 @@
   {
     "id": "90",
     "name": "Territoire de Belfort",
-    "url": "https://territoire de belfort.fr"
+    "url": "https://territoiredebelfort.fr"
   },
   {
     "id": "91",
@@ -477,6 +477,6 @@
   {
     "id": "95",
     "name": "Val-D'Oise",
-    "url": "https://val-d'oise.fr"
+    "url": "https://val-oise.fr"
   }
 ]
