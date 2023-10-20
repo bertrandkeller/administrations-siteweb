@@ -2,7 +2,11 @@
   {
     "id": "06",
     "name": "Alpes-Maritimes",
-    "url": "https://www.departement06.fr/"
+    "url": "https://www.departement06.fr/",
+    "urls": [
+      https://www.departement06.fr/,
+      https://www.departement06.fr/a-votre-service/cadre-de-vie-2981.html,
+    ]
   },
   {
     "id": "09",
